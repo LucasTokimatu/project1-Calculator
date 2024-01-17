@@ -3,6 +3,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/VBA-gray)
 
+# Sumário
+- [Sobre este repositório](#Sobre-este-repositório)
+
 # Sobre este repositório
 O repositório é constituído de 4 arquivos:
 <ul>
