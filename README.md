@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/VBA-gray)
 
 # Table of contents
-- [Markdown Badges](#markdown-badges)
+- [Sobre este repositório](#Sobre-este-repositório)
 - [Table of contents](#table-of-contents)
 - [Usage](#usage)
 - [Tips](#tips)
