@@ -13,7 +13,7 @@
 O repositório é constituído de 4 arquivos:
 <ul>
   <li>Calculator.xlsm - arquivo principal em formato xlsm</li>
-  <li>2 imagens em jpeg utilizado neste repositório</li>
+  <li>2 imagens em jpg utilizado neste repositório</li>
   <li>git attribute - adição para reconhecimento do tipo de linguagem de programação utilizada neste repositório no GitHub.</li>
 </ul>
 
