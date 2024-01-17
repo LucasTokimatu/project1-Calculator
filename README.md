@@ -5,9 +5,9 @@
 
 # Sumário
 - [Sobre este repositório](#Sobre-este-repositório)
-- [Sobre o projeto](#Sobre o projeto)
-- [Conceitos utilizados](#Conceitos utilizados)
-- [Organização do código](#Organização do código)
+- [Sobre o projeto](#Sobre-o-projeto)
+- [Conceitos utilizados](#Conceitos-utilizados)
+- [Organização do código](#Organização-do-código)
 
 # Sobre este repositório
 O repositório é constituído de 4 arquivos:
